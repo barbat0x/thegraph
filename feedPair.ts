@@ -17,5 +17,5 @@ class BlockParser {
   
   }
   
-  const reptile = new BlockParser();
+  const block = new BlockParser();
   // start scanning to last block
